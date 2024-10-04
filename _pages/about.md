@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,12 +11,12 @@ I am a researcher engineer at [JHU SNF AGORA](https://snfagora.jhu.edu/) under t
 
 I hold dual master’s degrees in **Computer Science** and **Information Systems** from **Johns Hopkins University**. I received my bachelor's degree in **Informatics** from the **Donald Bren School of Information and Computer Sciences of University of California, Irvine (UCI)**. Previously, I worked at the **Digital Learning Lab**, supervised by [Prof. Mark Warschauer](https://markwarschauer.com/) and Dr. Dandan Yang.
 
-I am open to collaborations and welcome anyone interested to reach out!
+I am open to collaborations and welcome anyone interested to reach out! Feel free to contact me via email (bsun26 AT jhu.edu) or wechat (ID: sun565563323).
 
 - [Email](mailto:bsun26@jhu.edu)
 
 
-A data-driven personal website
+<!--A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
