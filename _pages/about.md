@@ -7,7 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a researcher engineer at [JHU SNF AGORA](https://snfagora.jhu.edu/) under the supervision of [Prof. Yuen Yuen Ang]([https://www.xxx.com/](https://snfagora.jhu.edu/person/yuen-yuen-ang/)) and [Prof. Charles Chang](https://charleschang.me/). My research interests span **LLMs for science**, **computational social science**, and **AI agents**.
+
+I hold dual master’s degrees in **Computer Science** and **Information Systems** from **Johns Hopkins University**. I received my bachelor's degree in **Informatics** from the **Donald Bren School of Information and Computer Sciences of University of California, Irvine(UCI)**. Previously, I worked at the **Digital Learning Lab**, supervised by [Prof. Mark Warschauer](https://markwarschauer.com/) and [Dr. Dandan Yang].
+
+I am open to collaborations and welcome anyone interested to reach out!
+
+- [Email](mailto:bsun26@jhu.edu)
+- [WeChat](sun565563323)
+
 
 A data-driven personal website
 ======
